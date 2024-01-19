@@ -1,0 +1,2 @@
+# WebTextExtractors
+ WebTextExtractor é uma ferramenta e flexível de web scraping desenvolvida em Python. Seu principal objetivo é extrair textos de forma eficiente e estruturada de websites diversos, focando especialmente em artigos, blogs e notícias. Projetado para ser fácil de usar, mas robusto o suficiente para lidar com os desafios comuns do web scraping, o WebTextExtractor é ideal para pesquisadores, jornalistas, analistas de dados e entusiastas de tecnologia que precisam coletar informações da web de forma automatizada.
